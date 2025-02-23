@@ -708,3 +708,6 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,java,python,go,c,csharp
+
+generate_readme.py
+solutions.json
