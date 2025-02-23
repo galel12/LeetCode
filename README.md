@@ -29,7 +29,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|Medium||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|Easy||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|Hard||
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stack_155.py)|Easy||
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|Easy||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|Easy||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|Easy||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|Easy||
