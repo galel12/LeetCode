@@ -429,8 +429,8 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
-!.vscode/settings.json
+.vscode/
+.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
@@ -709,5 +709,11 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,java,python,go,c,csharp
 
+# ignore the generated readme
 generate_readme.py
+
+# ignore the json solutions file
 solutions.json
+
+# ignore the Test folder
+Tests/

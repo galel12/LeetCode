@@ -1,4 +1,3 @@
-package kthSmallestPrimeFraction;
 
 public class KthSmallestPrimeFrac {
 	
