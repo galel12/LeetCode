@@ -23,20 +23,20 @@ LeetCode
 Solutions to the LeetCode problems I solved/studied so far:
 | # | Title | Solution | Difficulty | Notes |
 |---| ----- | -------- | ---------- | ----- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](./solutions/python/Two_Sum_1.py)|Easy||
-|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|Medium||
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|Medium||
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|Hard|Time Complexity: O(n)<br>Space Complexity: O(1)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|Medium||
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|Easy||
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|Hard||
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|Easy||
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|Easy||
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|Easy||
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|Easy||
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|Medium||
-|632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|Hard||
-|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|Medium||
-|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|Medium||
-|1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|Medium||
-|1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|Easy||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](./solutions/python/Two_Sum_1.py)|<span style='color:#58d68d'>Easy</span>||
+|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|<span style='color:#f7dc6f'>Medium</span>||
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|<span style='color:#e74c3c'>Hard</span>|Time Complexity: O(n)<br>Space Complexity: O(1)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|<span style='color:#58d68d'>Easy</span>||
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|<span style='color:#e74c3c'>Hard</span>||
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|<span style='color:#58d68d'>Easy</span>||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
+|632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
+|1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
+|1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|<span style='color:#58d68d'>Easy</span>||
