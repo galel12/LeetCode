@@ -26,6 +26,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](./solutions/python/Two_Sum_1.py)|Easy||
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|Medium||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|Medium||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java)|Hard||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|Medium||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|Easy||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|Hard||
