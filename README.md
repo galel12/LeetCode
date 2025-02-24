@@ -24,6 +24,8 @@ Solutions to the LeetCode problems I solved/studied so far:
 | # | Title | Solution | Difficulty | Notes |
 |---| ----- | -------- | ---------- | ----- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](./solutions/python/Two_Sum_1.py)|<span style='color:#58d68d'>Easy</span>||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](./solutions/python/length_Of_Longest_Substring_3.py)|<span style='color:#f7dc6f'>Medium</span>||
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](./solutions/python/Container_With_Most_Water_11.py)|<span style='color:#f7dc6f'>Medium</span>||
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|<span style='color:#f7dc6f'>Medium</span>||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|<span style='color:#e74c3c'>Hard</span>|Time Complexity: O(n)<br>Space Complexity: O(1)|
