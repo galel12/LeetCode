@@ -1,6 +1,5 @@
 from typing import List
 
-
 class Solution:
     #Bucket Sort
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:

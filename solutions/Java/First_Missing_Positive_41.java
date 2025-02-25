@@ -1,10 +1,7 @@
 public class First_Missing_Positive_41 {
-    
     class Solution {
         public int firstMissingPositive(int[] nums) {
-            
             int n = nums.length, curr, next;
-            
             /* Place Numbers in Their Correct Positions: 
                Loop through the array and swap numbers to their correct position if they are in the range [1, n].
              */
@@ -17,7 +14,6 @@ public class First_Missing_Positive_41 {
                     curr = next;                // Move to the swapped number
                 }
             }
-
             // After reordering, iterate the array again to check which number is out of place.
             for(int i = 0; i < n; i++)
             {

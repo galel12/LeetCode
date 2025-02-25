@@ -1,5 +1,4 @@
 public class Search_in_Rotated_Sorted_Array_33 {
-
     class Solution {
         public int search(int[] nums, int target) {
             int n = nums.length;
@@ -29,7 +28,7 @@ public class Search_in_Rotated_Sorted_Array_33 {
         }
         
         //finds maximum index in sort and rotated array in O(lg(n)) using binary search
-        public static int findMax(int[] arr, int low, int high) {
+        public int findMax(int[] arr, int low, int high) {
             
             if(arr[low] < arr[high])
                 return high;

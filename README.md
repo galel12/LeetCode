@@ -39,6 +39,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>|Bucket Sort|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
