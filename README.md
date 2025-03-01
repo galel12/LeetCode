@@ -28,6 +28,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Java](./solutions/Java/Median_of_Two_Sorted_Arrays_4.java)|<span style='color:#e74c3c'>Hard</span>|[Explanation](https://www.youtube.com/watch?v=q6IEA26hvXc)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](./solutions/python/Container_With_Most_Water_11.py)|<span style='color:#f7dc6f'>Medium</span>||
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|<span style='color:#f7dc6f'>Medium</span>||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python](./solutions/python/MergeTwoSortedLists.py)|<span style='color:#58d68d'>Easy</span>||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](./solutions/Java/Search_in_Rotated_Sorted_Array_33.java)|<span style='color:#f7dc6f'>Medium</span>||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|<span style='color:#e74c3c'>Hard</span>|Time Complexity: O(n)<br>Space Complexity: O(1)|

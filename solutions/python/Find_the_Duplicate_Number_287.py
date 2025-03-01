@@ -10,13 +10,13 @@ class Solution:
         """
         slow = fast = nums[0]
         while True:
-            slow = nums[slow]
-            fast = nums[nums[fast]]
-            if slow == fast:
+            slow = nums[slow]       # Move 1 step
+            fast = nums[nums[fast]] # Move 2 steps
+            if slow == fast:        # Cycle detected
                 break
-        fast = nums[0]
+        fast = nums[0]              # reset fast to the start to find the start of the cycle
         while slow != fast:
-            slow = nums[slow]
-            fast = nums[fast]
-        return slow
+            slow = nums[slow]       # Move 1 step
+            fast = nums[fast]       # Move 1 step
+        return slow                 # slow is the start of the cycle (duplicate number)
     
