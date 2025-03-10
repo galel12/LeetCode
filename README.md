@@ -35,8 +35,11 @@ Solutions to the LeetCode problems I solved/studied so far:
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|<span style='color:#58d68d'>Easy</span>||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|<span style='color:#e74c3c'>Hard</span>||
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Python](./solutions/python/Copy_List_With_Random_Pointer_138.py)|<span style='color:#f7dc6f'>Medium</span>||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Python](./solutions/python/Linked_List_Cycle_Detection_141.py)|<span style='color:#58d68d'>Easy</span>||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|<span style='color:#58d68d'>Easy</span>||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
