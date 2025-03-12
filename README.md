@@ -33,6 +33,10 @@ Solutions to the LeetCode problems I solved/studied so far:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](./solutions/Java/Search_in_Rotated_Sorted_Array_33.java)|<span style='color:#f7dc6f'>Medium</span>||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|<span style='color:#e74c3c'>Hard</span>|Time Complexity: O(n)<br>Space Complexity: O(1)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](./solutions/python/Max_Subarray_53.py)|<span style='color:#f7dc6f'>Medium</span>||
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Python](./solutions/python/Search_a_2D_Matrix_74.py)|<span style='color:#f7dc6f'>Medium</span>||
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Python](./solutions/python/Same_Tree_100.py)|<span style='color:#58d68d'>Easy</span>||
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](./solutions/python/Depth_Of_Binary_Tree_104.py)|<span style='color:#58d68d'>Easy</span>||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|<span style='color:#58d68d'>Easy</span>||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|<span style='color:#e74c3c'>Hard</span>||
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Python](./solutions/python/Copy_List_With_Random_Pointer_138.py)|<span style='color:#f7dc6f'>Medium</span>||
@@ -41,6 +45,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|<span style='color:#58d68d'>Easy</span>||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Python](./solutions/python/Invert_Binary_Tree_226.py)|<span style='color:#58d68d'>Easy</span>||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
