@@ -35,7 +35,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](./solutions/python/Max_Subarray_53.py)|<span style='color:#f7dc6f'>Medium</span>||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Python](./solutions/python/Search_a_2D_Matrix_74.py)|<span style='color:#f7dc6f'>Medium</span>||
-|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](./solutions/python/Subsets_78.py)|<span style='color:#f7dc6f'>Medium</span>||
+|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](./solutions/python/Subsets_78.py)|<span style='color:#f7dc6f'>Medium</span>|[Backtracking]()|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Python](./solutions/python/Same_Tree_100.py)|<span style='color:#58d68d'>Easy</span>||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Python](./solutions/python/Level_Order_Traversal_102.py)|<span style='color:#f7dc6f'>Medium</span>|[BFS](https://en.wikipedia.org/wiki/Breadth-first_search)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](./solutions/python/Depth_Of_Binary_Tree_104.py)|<span style='color:#58d68d'>Easy</span>||
@@ -46,10 +46,10 @@ Solutions to the LeetCode problems I solved/studied so far:
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|<span style='color:#58d68d'>Easy</span>||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Python](./solutions/python/Kth_Largest_In_Array_215.py)|<span style='color:#f7dc6f'>Medium</span>||
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Python](./solutions/python/Kth_Largest_In_Array_215.py)|<span style='color:#f7dc6f'>Medium</span>|[Quick Select](https://en.wikipedia.org/wiki/Quickselect)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Python](./solutions/python/Invert_Binary_Tree_226.py)|<span style='color:#58d68d'>Easy</span>||
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Python](./solutions/python/Kth_Smallest_In_BST_230.py)|<span style='color:#f7dc6f'>Medium</span>||
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Python](./solutions/python/Kth_Smallest_In_BST_230.py)|<span style='color:#f7dc6f'>Medium</span>|[Inorder Traversal](https://en.wikipedia.org/wiki/Tree_traversal#In-order)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Python](./solutions/python/Lowest_Common_ancestor_235.py)|<span style='color:#f7dc6f'>Medium</span>||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
@@ -60,7 +60,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[Python](./solutions/python/K_Closest_Points_To_Origin_973.py)|<span style='color:#f7dc6f'>Medium</span>||
-|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>||
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>|[Max Heap]()|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)|[Python](./solutions/python/Count_Good_Nodes_1448.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|<span style='color:#58d68d'>Easy</span>||
