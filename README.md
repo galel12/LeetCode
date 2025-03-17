@@ -60,7 +60,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[Python](./solutions/python/K_Closest_Points_To_Origin_973.py)|<span style='color:#f7dc6f'>Medium</span>||
-|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>|[Max Heap]()|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>|Max Heap|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)|[Python](./solutions/python/Count_Good_Nodes_1448.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|<span style='color:#58d68d'>Easy</span>||
