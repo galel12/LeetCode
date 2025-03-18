@@ -64,3 +64,4 @@ Solutions to the LeetCode problems I solved/studied so far:
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)|[Python](./solutions/python/Count_Good_Nodes_1448.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|<span style='color:#58d68d'>Easy</span>||
+|2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)|[Python](./solutions/python/Divide_Array_2206.py)|<span style='color:#58d68d'>Easy</span>||
