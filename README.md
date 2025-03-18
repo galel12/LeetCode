@@ -31,11 +31,16 @@ Solutions to the LeetCode problems I solved/studied so far:
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python](./solutions/python/MergeTwoSortedLists.py)|<span style='color:#58d68d'>Easy</span>||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](./solutions/Java/Search_in_Rotated_Sorted_Array_33.java)|<span style='color:#f7dc6f'>Medium</span>||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Python](./solutions/python/Combination_Sum_39.py)|<span style='color:#f7dc6f'>Medium</span>||
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Python](./solutions/python/Combination_Sum_II_40.py)|<span style='color:#f7dc6f'>Medium</span>||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Java](./solutions/Java/First_Missing_Positive_41.java),<br>[C](./solutions/C/FirstMissingPositive.c)|<span style='color:#e74c3c'>Hard</span>|Time Complexity: O(n)<br>Space Complexity: O(1)|
+|46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Python](./solutions/python/Permutations_46.py)|<span style='color:#f7dc6f'>Medium</span>||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](./solutions/python/Max_Subarray_53.py)|<span style='color:#f7dc6f'>Medium</span>||
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Python](./solutions/python/Climbing_Stairs_70.py)|<span style='color:#58d68d'>Easy</span>||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Python](./solutions/python/Search_a_2D_Matrix_74.py)|<span style='color:#f7dc6f'>Medium</span>||
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](./solutions/python/Subsets_78.py)|<span style='color:#f7dc6f'>Medium</span>|[Backtracking]()|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[Python](./solutions/python/Subsets_II_90.py)|<span style='color:#f7dc6f'>Medium</span>||
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Python](./solutions/python/Same_Tree_100.py)|<span style='color:#58d68d'>Easy</span>||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Python](./solutions/python/Level_Order_Traversal_102.py)|<span style='color:#f7dc6f'>Medium</span>|[BFS](https://en.wikipedia.org/wiki/Breadth-first_search)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](./solutions/python/Depth_Of_Binary_Tree_104.py)|<span style='color:#58d68d'>Easy</span>||
@@ -57,6 +62,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](./solutions/python/Kth_Largest_In_A_Stream_703.py)|<span style='color:#58d68d'>Easy</span>||
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[Python](./solutions/python/Min_Cost_Climbing_Stairs_746.py)|<span style='color:#58d68d'>Easy</span>||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[Python](./solutions/python/K_Closest_Points_To_Origin_973.py)|<span style='color:#f7dc6f'>Medium</span>||
