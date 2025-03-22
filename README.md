@@ -52,6 +52,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Python](./solutions/python/Linked_List_Cycle_Detection_141.py)|<span style='color:#58d68d'>Easy</span>||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Python](./solutions/python/Two_Sum2_167.py)|<span style='color:#58d68d'>Easy</span>||
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](./solutions/python/Number_of_Islands_200.py)|<span style='color:#f7dc6f'>Medium</span>||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Python](./solutions/python/Kth_Largest_In_Array_215.py)|<span style='color:#f7dc6f'>Medium</span>|[Quick Select](https://en.wikipedia.org/wiki/Quickselect)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
@@ -64,6 +65,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|Python|<span style='color:#f7dc6f'>Medium</span>|[DFS](./solutions/python/0695.Max%20Area%20Of%20Island/DFS_solution.py),<br>[BFS](./solutions/python/0695.Max%20Area%20Of%20Island/BFS_solution.py)|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](./solutions/python/Kth_Largest_In_A_Stream_703.py)|<span style='color:#58d68d'>Easy</span>||
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[Python](./solutions/python/Min_Cost_Climbing_Stairs_746.py)|<span style='color:#58d68d'>Easy</span>||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
