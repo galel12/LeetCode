@@ -47,6 +47,8 @@ Solutions to the LeetCode problems I solved/studied so far:
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](./solutions/python/Depth_Of_Binary_Tree_104.py)|<span style='color:#58d68d'>Easy</span>||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|<span style='color:#58d68d'>Easy</span>||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|<span style='color:#e74c3c'>Hard</span>||
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Python](./solutions/python/Surrounded_Regions_130.py)|<span style='color:#f7dc6f'>Medium</span>||
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Python](./solutions/python/Clone_Graph_133.py)|<span style='color:#f7dc6f'>Medium</span>||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Python](./solutions/python/Gas_Station_134.py)|<span style='color:#f7dc6f'>Medium</span>||
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Python](./solutions/python/Copy_List_With_Random_Pointer_138.py)|<span style='color:#f7dc6f'>Medium</span>||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Python](./solutions/python/Linked_List_Cycle_Detection_141.py)|<span style='color:#58d68d'>Easy</span>||
@@ -60,8 +62,9 @@ Solutions to the LeetCode problems I solved/studied so far:
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Python](./solutions/python/Kth_Smallest_In_BST_230.py)|<span style='color:#f7dc6f'>Medium</span>|[Inorder Traversal](https://en.wikipedia.org/wiki/Tree_traversal#In-order)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Python](./solutions/python/Lowest_Common_ancestor_235.py)|<span style='color:#f7dc6f'>Medium</span>||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](./solutions/python/Valid_Anagram_242.py)|<span style='color:#58d68d'>Easy</span>||
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|[Python](./solutions/python/Walls_and_Gates_286.py)|<span style='color:#f7dc6f'>Medium</span>|[Multi-Source BFS](https://www.geeksforgeeks.org/multi-source-shortest-path-in-unweighted-graph/)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
-|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Python](./solutions/python/Coin_Change_322.py)|<span style='color:#f7dc6f'>Medium</span>||
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|Python|<span style='color:#f7dc6f'>Medium</span>|[Brute Force](./solutions/python/0322.Coin%20Change/Brute_Force.py),<br>[Top Down DP](./solutions/python/0322.Coin%20Change/DP_Top_Down.py)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
@@ -71,6 +74,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[Python](./solutions/python/K_Closest_Points_To_Origin_973.py)|<span style='color:#f7dc6f'>Medium</span>||
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)|[Python](./solutions/python/Rotting_Oranges_994.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>|Max Heap|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)|[Python](./solutions/python/Count_Good_Nodes_1448.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
