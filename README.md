@@ -38,6 +38,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](./solutions/python/Max_Subarray_53.py)|<span style='color:#f7dc6f'>Medium</span>||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Python](./solutions/python/Jump_Game_55.py)|<span style='color:#f7dc6f'>Medium</span>||
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[Python](./solutions/python/062.Unique%20Paths)|<span style='color:#f7dc6f'>Medium</span>||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Python](./solutions/python/Climbing_Stairs_70.py)|<span style='color:#58d68d'>Easy</span>||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Python](./solutions/python/Search_a_2D_Matrix_74.py)|<span style='color:#f7dc6f'>Medium</span>||
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](./solutions/python/Subsets_78.py)|<span style='color:#f7dc6f'>Medium</span>|[Backtracking]()|
@@ -50,6 +51,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Python](./solutions/python/Surrounded_Regions_130.py)|<span style='color:#f7dc6f'>Medium</span>||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Python](./solutions/python/Clone_Graph_133.py)|<span style='color:#f7dc6f'>Medium</span>||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Python](./solutions/python/Gas_Station_134.py)|<span style='color:#f7dc6f'>Medium</span>||
+|136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Python](./solutions/python/Single_Number_136.py)|<span style='color:#58d68d'>Easy</span>|[XOR](https://en.wikipedia.org/wiki/Exclusive_or)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Python](./solutions/python/Copy_List_With_Random_Pointer_138.py)|<span style='color:#f7dc6f'>Medium</span>||
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[Python](./solutions/python/0139.Word%20Break)|<span style='color:#f7dc6f'>Medium</span>||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Python](./solutions/python/Linked_List_Cycle_Detection_141.py)|<span style='color:#58d68d'>Easy</span>||
@@ -71,7 +73,10 @@ Solutions to the LeetCode problems I solved/studied so far:
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Python](./solutions/python/Partition_Equal_416.py)|<span style='color:#f7dc6f'>Medium</span>||
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
+|494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[Python](./solutions/python/Target_Sum_494.py)|<span style='color:#f7dc6f'>Medium</span>|Subset Sum Problem|
+|518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)|[Python](./solutions/python/Coin_Change_2_518.py)|<span style='color:#f7dc6f'>Medium</span>||
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)|[Python](./solutions/python/632.Smallest_Range_Covering_Elements_from_K_Lists.py)|<span style='color:#e74c3c'>Hard</span>||
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Python](./solutions/python/Palindromic_Substrings_647.py)|<span style='color:#f7dc6f'>Medium</span>||
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|Python|<span style='color:#f7dc6f'>Medium</span>|[DFS](./solutions/python/0695.Max%20Area%20Of%20Island/DFS_solution.py),<br>[BFS](./solutions/python/0695.Max%20Area%20Of%20Island/BFS_solution.py)|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](./solutions/python/Kth_Largest_In_A_Stream_703.py)|<span style='color:#58d68d'>Easy</span>||
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[Python](./solutions/python/Min_Cost_Climbing_Stairs_746.py)|<span style='color:#58d68d'>Easy</span>||
@@ -80,6 +85,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[Python](./solutions/python/K_Closest_Points_To_Origin_973.py)|<span style='color:#f7dc6f'>Medium</span>||
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)|[Python](./solutions/python/Rotting_Oranges_994.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)|[Python](./solutions/python/Last_Stone_Weight_1046.py)|<span style='color:#58d68d'>Easy</span>|Max Heap|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)|[Python](./solutions/python/LCS_1143.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)|[Python](./solutions/python/Count_Good_Nodes_1448.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>||
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./solutions/Java/SumofAllSubsetXORTotals.java)|<span style='color:#58d68d'>Easy</span>||
