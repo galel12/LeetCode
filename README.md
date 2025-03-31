@@ -28,6 +28,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Java](./solutions/Java/Median_of_Two_Sorted_Arrays_4.java)|<span style='color:#e74c3c'>Hard</span>|[Explanation](https://www.youtube.com/watch?v=q6IEA26hvXc)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](./solutions/python/Container_With_Most_Water_11.py)|<span style='color:#f7dc6f'>Medium</span>||
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](./solutions/python/3Sum_15.py)|<span style='color:#f7dc6f'>Medium</span>||
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Python](./solutions/python/Letter_Combinations_17.py)|<span style='color:#f7dc6f'>Medium</span>||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python](./solutions/python/MergeTwoSortedLists.py)|<span style='color:#58d68d'>Easy</span>||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](./solutions/Java/Search_in_Rotated_Sorted_Array_33.java)|<span style='color:#f7dc6f'>Medium</span>||
@@ -38,17 +39,22 @@ Solutions to the LeetCode problems I solved/studied so far:
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](./solutions/python/Group_Anagrams_49.py)|<span style='color:#f7dc6f'>Medium</span>||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](./solutions/python/Max_Subarray_53.py)|<span style='color:#f7dc6f'>Medium</span>||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Python](./solutions/python/Jump_Game_55.py)|<span style='color:#f7dc6f'>Medium</span>||
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[Python](./solutions/python/Insert_Interval_57.py)|<span style='color:#f7dc6f'>Medium</span>||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[Python](./solutions/python/062.Unique%20Paths)|<span style='color:#f7dc6f'>Medium</span>||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Python](./solutions/python/Climbing_Stairs_70.py)|<span style='color:#58d68d'>Easy</span>||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Python](./solutions/python/Search_a_2D_Matrix_74.py)|<span style='color:#f7dc6f'>Medium</span>||
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](./solutions/python/Subsets_78.py)|<span style='color:#f7dc6f'>Medium</span>|[Backtracking]()|
+|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Python](./solutions/python/Word_Search_79.py)|<span style='color:#f7dc6f'>Medium</span>||
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[Python](./solutions/python/Subsets_II_90.py)|<span style='color:#f7dc6f'>Medium</span>||
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/)|[Python](./solutions/python/Interleaving_String_97.py)|<span style='color:#f7dc6f'>Medium</span>||
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[Python](./solutions/python/Same_Tree_100.py)|<span style='color:#58d68d'>Easy</span>||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Python](./solutions/python/Level_Order_Traversal_102.py)|<span style='color:#f7dc6f'>Medium</span>|[BFS](https://en.wikipedia.org/wiki/Breadth-first_search)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](./solutions/python/Depth_Of_Binary_Tree_104.py)|<span style='color:#58d68d'>Easy</span>||
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)|[Python](./solutions/python/Distinct_Subsequences_115.py)|<span style='color:#e74c3c'>Hard</span>||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[Python](./solutions/python/Is_Palindrome.py)|<span style='color:#58d68d'>Easy</span>||
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|[Python](./solutions/python/Longest_Consecutive_Sequence_128.py)|<span style='color:#e74c3c'>Hard</span>||
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Python](./solutions/python/Surrounded_Regions_130.py)|<span style='color:#f7dc6f'>Medium</span>||
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[Python](./solutions/python/Palindrome_Partitioning_131.py)|<span style='color:#f7dc6f'>Medium</span>||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Python](./solutions/python/Clone_Graph_133.py)|<span style='color:#f7dc6f'>Medium</span>||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Python](./solutions/python/Gas_Station_134.py)|<span style='color:#f7dc6f'>Medium</span>||
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Python](./solutions/python/Single_Number_136.py)|<span style='color:#58d68d'>Easy</span>|[XOR](https://en.wikipedia.org/wiki/Exclusive_or)|
@@ -60,6 +66,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[Python](./solutions/python/House%20Robber/House_Robber_1.py)|<span style='color:#f7dc6f'>Medium</span>||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](./solutions/python/Num_Of_Isalnds_200.py)|<span style='color:#f7dc6f'>Medium</span>||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/)|[Python](./solutions/python/Word_Search_2_212.py)|<span style='color:#e74c3c'>Hard</span>||
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|[Python](./solutions/python/House%20Robber/House_Robber_2.py)|<span style='color:#f7dc6f'>Medium</span>|Circular Array|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[Python](./solutions/python/Kth_Largest_In_Array_215.py)|<span style='color:#f7dc6f'>Medium</span>|[Quick Select](https://en.wikipedia.org/wiki/Quickselect)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](./solutions/python/Contains_Duplicate.py)|<span style='color:#58d68d'>Easy</span>||
@@ -70,6 +77,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|[Python](./solutions/python/Walls_and_Gates_286.py)|<span style='color:#f7dc6f'>Medium</span>|[Multi-Source BFS](https://www.geeksforgeeks.org/multi-source-shortest-path-in-unweighted-graph/)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|Python|<span style='color:#f7dc6f'>Medium</span>|[Brute Force](./solutions/python/0322.Coin%20Change/Brute_Force.py),<br>[Top Down DP](./solutions/python/0322.Coin%20Change/DP_Top_Down.py)|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Python](./solutions/python/Longest_Increasing_Path_329.py)|<span style='color:#e74c3c'>Hard</span>||
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[Python](./solutions/python/Top_K_Frequent_Elements_347.py)|<span style='color:#f7dc6f'>Medium</span>||
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[Python](./solutions/python/Partition_Equal_416.py)|<span style='color:#f7dc6f'>Medium</span>||
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)|[Python](./solutions/python/LongestRepeatingCharacterReplacement.py)|<span style='color:#f7dc6f'>Medium</span>||
@@ -79,6 +87,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Python](./solutions/python/Palindromic_Substrings_647.py)|<span style='color:#f7dc6f'>Medium</span>||
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)|Python|<span style='color:#f7dc6f'>Medium</span>|[DFS](./solutions/python/0695.Max%20Area%20Of%20Island/DFS_solution.py),<br>[BFS](./solutions/python/0695.Max%20Area%20Of%20Island/BFS_solution.py)|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](./solutions/python/Kth_Largest_In_A_Stream_703.py)|<span style='color:#58d68d'>Easy</span>||
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Python](./solutions/python/Daily_Temperatures_739.py)|<span style='color:#f7dc6f'>Medium</span>|Monotonic Stack|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[Python](./solutions/python/Min_Cost_Climbing_Stairs_746.py)|<span style='color:#58d68d'>Easy</span>||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Java](./solutions/Java/KthSmallestPrimeFrac.java)|<span style='color:#f7dc6f'>Medium</span>||
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
