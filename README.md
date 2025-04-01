@@ -64,7 +64,6 @@ Solutions to the LeetCode problems I solved/studied so far:
 | # | Title | Solution | Difficulty | Notes |
 |---| ----- | -------- | ---------- | ----- |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Python](./solutions/python/Letter_Combinations_17.py)|<span style='color:#f7dc6f'>Medium</span>||
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Python](./solutions/python/Combination_Sum_39.py)|<span style='color:#f7dc6f'>Medium</span>||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Python](./solutions/python/Combination_Sum_II_40.py)|<span style='color:#f7dc6f'>Medium</span>||
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Python](./solutions/python/Permutations_46.py)|<span style='color:#f7dc6f'>Medium</span>||
@@ -84,6 +83,15 @@ Solutions to the LeetCode problems I solved/studied so far:
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[Python](./solutions/python/Linked_List_Cycle_Detection_141.py)|<span style='color:#58d68d'>Easy</span>||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Python](./solutions/python/Reverse_Linked_List_206.py)|<span style='color:#58d68d'>Easy</span>||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Python](./solutions/python/Find_the_Duplicate_Number_287.py)|<span style='color:#f7dc6f'>Medium</span>|[Floyd's Tortoise and Hare (Cycle Detection)](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)|
+
+### Stack
+
+| # | Title | Solution | Difficulty | Notes |
+|---| ----- | -------- | ---------- | ----- |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](./solutions/python/Generate_Parentheses_22.py)|<span style='color:#f7dc6f'>Medium</span>||
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>|Monotonic Stack|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
 
 ### Greedy
 
@@ -148,15 +156,7 @@ Solutions to the LeetCode problems I solved/studied so far:
 |---| ----- | -------- | ---------- | ----- |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Python](./solutions/python/Single_Number_136.py)|<span style='color:#58d68d'>Easy</span>|[XOR](https://en.wikipedia.org/wiki/Exclusive_or)|
 
-### Stack
-
-| # | Title | Solution | Difficulty | Notes |
-|---| ----- | -------- | ---------- | ----- |
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Python](./solutions/python/Min_Stuck_155.py)|<span style='color:#58d68d'>Easy</span>||
-|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Python](./solutions/python/1813.Sentence_Similarity_3.py)|<span style='color:#f7dc6f'>Medium</span>|Monotonic Stack|
-|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/)|[Python](./solutions/python/Car_Fleet_853.py)|<span style='color:#f7dc6f'>Medium</span>||
-
-### Heap
+### Heap / Priority Queue
 
 | # | Title | Solution | Difficulty | Notes |
 |---| ----- | -------- | ---------- | ----- |
